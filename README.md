@@ -38,8 +38,11 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-Learn
-Jupyter Notebook
-📊 Exploratory Data Analysis (EDA)
+Jupyter Notebook   
+
+
+
+  📊 Exploratory Data Analysis (EDA)
 
 The project includes visualizations such as:
 
@@ -79,6 +82,9 @@ The model performance is evaluated using:
 
 Accuracy
 Confusion Matrix
+
+
+
 🚀 Installation
 
 Clone the repository:
@@ -116,8 +122,5 @@ Improve model accuracy through hyperparameter tuning.
 👨‍💻 Author
 
 Suraj Shinde
-Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
+Aspiring Data Scientist
 
-📜 License
-
-This project is intended for educational and learning purposes. Feel free to modify and enhance it for research and development.
